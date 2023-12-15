@@ -1,2 +1,2 @@
 # atyu
-Análisis de texto y autoría con ngramas
+Análisis de texto y autoría utilizando ngramas
